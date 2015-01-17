@@ -1,4 +1,6 @@
-Unfinished game/prototype
+Unfinished game/prototype written for a Game Jam @ Åpen Sone, University of Oslo
+
+Video: https://www.youtube.com/watch?v=Ps_mtGIsdIw
 
 Tested on: OS X 10.10
 
