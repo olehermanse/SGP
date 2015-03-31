@@ -1,9 +1,9 @@
-File: README.md<br>
-Project name: SGP<br>
-Date: 2015-04-01<br>
-Author: olehermanse ( http://www.github.com/olehermanse )<br>
-License: The MIT License<br>
-Language/Libraries: C++, SDL, OpenGL<br>
+**File:** README.md<br>
+**Project** name: SGP<br>
+**Date:** 2015-04-01<br>
+**Author:** olehermanse ( http://www.github.com/olehermanse )<br>
+**License:** The MIT License<br>
+**Language/Libraries:** C++, SDL, OpenGL<br>
 **Video:** https://www.youtube.com/watch?v=Ps_mtGIsdIw<br>
 
 Unfinished game/prototype written for a Game Jam @ Åpen Sone, University of Oslo. 
