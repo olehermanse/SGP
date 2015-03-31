@@ -6,11 +6,11 @@
 **Language/Libraries:** C++, SDL, OpenGL<br>
 **Video:** https://www.youtube.com/watch?v=Ps_mtGIsdIw<br>
 
+**Description:**
 Unfinished game/prototype written for a Game Jam @ Åpen Sone, University of Oslo. 
 Experimenting with OpenGL and 3D rendering.
 
-
-The MIT License (MIT)
+**The MIT License (MIT)**
 
 Copyright (c) 2015 olehermanse
 
